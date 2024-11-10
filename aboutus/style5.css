@@ -1,0 +1,122 @@
+
+
+.div1{
+    background-color: #FED7A9;
+    padding-bottom: 6rem;
+}
+.div2{
+    display: flex;
+}
+.Img1{
+   width: 26rem;
+   margin-left: 8rem;
+   margin-top: 6rem;
+   margin-right: 1.25rem;
+   box-shadow: 0 25px 50px rgba(0, 0, 0, 0.3);
+}
+.div3{
+  margin-top: 5rem;
+  margin-left: 7rem;
+  margin-right: 5rem;
+}
+.div3-h1-1{
+    font-weight: bold;           
+    color: #FB923C;                   
+    font-size: 1.5rem;
+}
+.div3-h1-2{
+    font-weight: bold;           
+  font-size: 3rem;               
+  margin-top: 0.75rem;              
+  font-family: serif; 
+}
+.div3-h1-3{
+    font-weight: 600;    
+    font-size: 1.5rem;           
+    margin-top: 1rem;
+}
+.div3-p-1{
+    font-weight: 600;
+    font-size: 17px;
+    margin-top: 1.25rem;
+}
+.div3-p-2{
+    font-size: 15px;
+    margin-top: 1.25rem;
+}
+@keyframes custom-bounce {
+  0%, 100% {
+    transform: translateY(0);
+  }
+  50% {
+    transform: translateY(-5px);
+  }
+}
+
+.custom-bounce {
+  animation: custom-bounce 1500ms ease infinite;
+  margin-top: 1.0rem;
+}
+.div3-link{
+    background-color: #8f4f01;     
+    color: #f9f8f7;             
+    font-weight: 600; 
+    font-size: 17px;               
+    padding: 1rem;                
+    border-radius: 0.75rem;  
+}
+.div-t-1{
+    padding-top: 9rem;
+    padding-bottom: 9rem;
+    background-color: white;
+  }
+  .div-t-2{
+    display: flex;
+  }
+  .div-t-3{
+    padding-left: 2.5rem;       
+    font-weight: 600;         
+    color: #f97316;          
+    font-size: 1.25rem;
+  }
+  .div-t-4{
+    margin-top: 0.75rem;       /* Equivalent to 'mt-3' (12px) */
+    font-weight: 600;          /* Equivalent to 'font-semibold' */
+    font-size: 3.75rem;       /* Equivalent to 'text-6xl' (60px) */
+    padding-left: 2.5rem;     /* Equivalent to 'pl-10' (40px) */
+    font-family: sans-serif;
+  }
+  .div-t-5{
+    font-weight: 600;
+    font-size: 3.75rem;
+    padding-left: 3rem;
+    margin-top: 0.75rem;
+    font-family: sans-serif;
+  }
+  .div-t-6{
+    display: flex;
+  }
+  .div-t-6-h1{
+    width: 15rem;          
+    font-weight: 600;     
+    font-size: 1.125rem; 
+    margin-top: 1rem;      
+    margin-left: 4rem;    
+    max-width: 100%;
+  }
+  .div-t-7{
+    display: flex;
+    margin-top: 0.5rem;
+  
+  }
+  .div-t-8{
+    font-size: 1rem;
+    font-weight: 600;
+    margin-left: 96px;
+  }
+  .div-t-9{
+    margin-top: 0.25rem;
+    font-weight: 700;
+    margin-left: o.5rem;
+    font-size: 1.25rem;
+  }

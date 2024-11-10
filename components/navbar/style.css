@@ -1,0 +1,59 @@
+/* Muhammad Anas */
+/* navBar css */
+
+
+.header{
+    background-color: #A16327
+}
+.header-div{
+    display: flex;                
+    flex-wrap: wrap;              
+    height: 5rem;                
+    margin-left: auto;            
+    margin-right: auto;           
+    padding: 1.25rem;             
+    margin-left: 1.25rem;        
+    margin-right: 0;             
+    flex-direction: column;      
+    align-items: center; 
+}
+
+.image{
+    width: 2.75rem;              
+    height: 2.75rem;            
+    border-radius: 9999px;  
+    box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.4);   
+    margin-left: 40px;
+}
+.Link1{
+    font-style: italic;             
+    font-weight: 500;              
+    font-size: 24px;              
+    font-family: serif;            
+    margin-right: 3rem;
+    margin-top: 4px; 
+}
+.Link2{
+    color: #f1f5f9;          
+  font-weight: 600;        
+  font-size: 17px; 
+}
+.Link3{
+    color: #f1f5f9;        
+    font-weight: 600;        
+    margin-left: 1.75rem;   
+    font-size: 17px; 
+}
+.Link4{
+    color: #f1f5f9;         
+    font-weight: 600;     
+    margin-left: 1.75rem;    
+    font-size: 17px; 
+}
+.Link5{
+    color: #f1f5f9;          
+    font-weight: 600;       
+    margin-left: 1.75rem;   
+    font-size: 17px; 
+    margin-right: 180px;
+}

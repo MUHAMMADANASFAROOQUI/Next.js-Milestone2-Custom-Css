@@ -1,0 +1,151 @@
+
+
+.div1{
+    background-color: #F1F5F9;      
+    padding-top: 5rem;              
+    height: screen; 
+}
+.div2{
+    display: flex;
+}
+.div2-h1{
+    color: #FB923C;      
+  margin-left: 5rem;     
+  font-weight: 600;       
+  font-size: 1.25rem;
+}
+.div3{
+    background-size: cover;
+  height: 54px;        
+  width: 68px;              
+  display: flex;             
+  align-items: center;    
+  position: relative; 
+  border-radius: 50%;     
+  margin-top: 1rem;          
+  margin-left: 4rem;
+}
+.div4{
+  position: relative;     
+  z-index: 10;         
+  color: black;           
+  font-weight: 600;        
+  font-size: 4rem;
+  margin-top: 28px; 
+}
+.div4-h1-1{
+  margin-left: 1.25rem;
+  margin-top: 3rem;
+}
+.div4-h1-2{
+  margin-left: 1.25rem;
+}
+.div5{
+  display: flex;
+}
+.div5-image1{
+  width: 2.75rem;      
+  margin-left: 4.75rem;
+  margin-top: 7rem;   
+  padding-bottom: 1.25rem; 
+}
+.div5-div-1{
+  padding-bottom: 1.25rem;
+  border-bottom: 2px solid;
+}
+.div5-div-2{
+  width: 100%;               
+  max-width: 100%;           
+  margin-top: 7rem;          
+  font-size: 1rem;           
+  padding-left: 1.5rem;
+  font-weight: 500;
+}
+.div5-h1{
+  width: 20rem;             
+  max-width: 100%;          
+  font-size: 1rem;          
+  padding-left: 1.5rem;     
+  font-weight: 600;  
+}
+.div6{
+  margin-top: 2rem;
+  display: flex;
+}
+.div6-image1{
+  width: 4rem;            
+  margin-left: 4rem;      
+  margin-top: 7rem;       
+  padding-bottom: 1.25rem; 
+}
+.div6-div-2{
+  width: 100%;               
+  max-width: 100%;           
+  margin-top: 7rem;          
+  font-size: 1rem;           
+  padding-left: 1rem;
+  font-weight: 500;
+}
+.div6-h1{
+  width: 20rem;             
+  max-width: 100%;          
+  font-size: 1rem;          
+  padding-left: 1rem;     
+  font-weight: 600;  
+}
+.div7-div-2{
+  width: 100%;               
+  max-width: 100%;           
+  margin-top: 1rem;          
+  font-size: 1rem;           
+  padding-left: 1rem;
+  font-weight: 500;
+}
+.div7-image1{
+  width: 4rem;            
+  margin-left: 4rem;     
+  margin-top: 1rem;       
+  padding-bottom: 1.25rem; 
+}
+.form{
+  margin-left: 10rem;
+  margin-bottom: 7rem;
+}
+.div-f-1{
+  display: flex;
+}
+.yourname-div{
+   border-radius: 0.25rem;
+   border: 2;
+    margin-top: 0.5rem;
+    border: rgb(0, 0, 0);
+    border: solid;
+}
+.yourname-input{
+  background-color: #f1f5f9;   
+  height: 3.5rem;               
+  width: 16rem; 
+}
+.message{
+  margin-top: 1.5rem;
+}
+.message-div{
+  border-radius: 0.25rem;
+  border: 2;
+   margin-top: 1rem;
+   border: rgb(0, 0, 0);
+   border: solid;
+}
+.yourname-input{
+  background-color: #f1f5f9;   
+  height: 5rem;               
+  width: full; 
+}
+.button{
+  background-color: black;     
+  width: 10rem;                
+  height: 3rem;                
+  border-radius: 0.5rem;       
+  margin-top: 2rem;            
+  color: white;
+}

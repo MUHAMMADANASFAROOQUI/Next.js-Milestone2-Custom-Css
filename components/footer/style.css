@@ -1,0 +1,120 @@
+/* footer css */
+
+.div{
+    background-color: #FCBA74;
+}
+.div1{
+    display: flex;
+}
+.div2{
+    position: relative;  
+    height: 15rem;
+    background-color: #FCBA74;
+}
+.div3{
+    background-color: #FCBA74;
+    height: 43px;               
+    width: 42px;            
+    display: flex;             
+    align-items: center;     
+    position: relative;        
+    border-radius: 50%;    
+    margin-top: 128px;          
+    margin-left: 96px;
+}
+.div4{
+    position: absolute;  
+  top: 0;                
+  right: 0;            
+  bottom: 0;            
+  left: 0; 
+}
+.div5{
+    position: relative;        
+    z-index: 10;               
+    color: black;              
+    font-weight: bold;        
+    font-size: 4rem;           
+    display: flex;
+}
+.h1-1{
+    margin-top: 4.5rem;
+}
+.h1-2{
+    margin-top: 4.5rem;
+}
+.div6{
+    max-width: 100%;        
+    width: 20rem;          
+    height: 15rem;         
+    border-width: 4px;     
+    border-radius: 0.5rem; 
+    margin-left: 20rem;    
+    margin-top: 5rem;      
+    border-color: #4F2F1B; 
+    border-style: solid;   
+}
+.div6-h1{
+    width: 12.5rem;      
+    margin-top: 1.5rem;    
+    font-size: 1.5rem;      
+    font-weight: 600;       
+    margin-left: 2rem;
+}
+.div6-Link{
+    font-size: 1.5rem;       
+  font-weight: 700;       
+  margin-left: 1.75rem;     
+  margin-bottom: 0.75rem;    
+  margin-top: 0.5rem;        
+  color: #4F2F1B; 
+}
+.div7{
+    max-width: 100%;        
+    width: 20rem;          
+    height: 15rem;         
+    border-width: 4px;     
+    border-radius: 0.5rem; 
+    margin-left: 2.5rem;    
+    margin-top: 5rem;      
+    border-color: #4F2F1B; 
+    border-style: solid;   
+}
+.div7-h1{
+    width: 12.5rem;      
+    margin-top: 1.5rem;    
+    font-size: 1.5rem;      
+    font-weight: 600;       
+    margin-left: 2.0rem;
+}
+.div7-Link{
+    font-size: 1.5rem;       
+  font-weight: 700;       
+  margin-left: 1.75rem;     
+  margin-bottom: 0.75rem;    
+  margin-top: 0.5rem;        
+  color: #4F2F1B; 
+}
+.div8-h1{
+    font-size: 8rem;           
+    font-weight: 800;         
+    font-style: italic;        
+    margin-left: 11rem;       
+    margin-top: 5rem;      
+    margin-right: 12rem;      
+    margin-bottom: 2.5rem;     
+    color: #7A4A21;
+}
+.div9{
+    margin-left: 3rem;     
+  font-size: 1.125rem;      
+  font-weight: 700;         
+  margin-top: 1rem;        
+  margin-right: 4rem;
+}
+.div10{
+    font-size: 1.125rem;     
+  font-weight: 700;         
+  margin-top: 1rem;         
+  margin-left: 24rem; 
+}
